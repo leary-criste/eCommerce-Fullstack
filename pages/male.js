@@ -21,4 +21,4 @@ export const getServerSideProps = async () => {
     }
 }
 
-export default male
+export default male
