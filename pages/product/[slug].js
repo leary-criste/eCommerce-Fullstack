@@ -118,4 +118,4 @@ export const getStaticPaths = async () => {
       paths,
       fallback: 'blocking'
     }
-}
+}
